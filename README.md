@@ -1,3 +1,3 @@
 # USACO-Practice
-http://usaco.org/
-Practice code for USACO training site!
+Working practice code for the USACO training site!
+100% Working - Mostly Optimized - Mixed Languages
